@@ -1,0 +1,11 @@
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.deps.json
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.runtimeconfig.json
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.runtimeconfig.dev.json
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.dll
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.pdb
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.csprojResolveAssemblyReference.cache
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.AssemblyInfoInputs.cache
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.AssemblyInfo.cs
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.dll
+C:\Users\Dinesh.Singh\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.pdb
